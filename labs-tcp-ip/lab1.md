@@ -1,3 +1,4 @@
+# Лабораторная работа №1
 ## Задание 1
 Схема:
 ![pic1](https://i.ibb.co/M1BT7JK/Capture.png)
