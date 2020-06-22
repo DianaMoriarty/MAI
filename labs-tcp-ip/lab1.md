@@ -6,7 +6,7 @@
 
 
 Схема:
-![pic1](https://i.ibb.co/Jzt0ZQp/Capture.png)
+![pic1](https://i.ibb.co/PtR115Z/Capture.png)
 
 ---
 ## Задание 2
